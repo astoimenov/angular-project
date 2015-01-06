@@ -1,0 +1,18 @@
+/* app css stylesheet */
+
+body {
+    padding-top: 90px;
+}
+
+.panel-body {
+    border: 1px solid #eee;
+    text-align: center;
+}
+
+.btn-group-vertical {
+    margin: 0 !important;
+}
+
+footer {
+    text-align: center;
+}
